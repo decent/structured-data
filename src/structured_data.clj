@@ -84,6 +84,7 @@
   (map :title books))
 
 (defn monotonic? [a-seq]
+  "Oh my good this chapter is long"
   :-)
 
 (defn stars [n]
